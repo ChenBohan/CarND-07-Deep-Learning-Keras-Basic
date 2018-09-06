@@ -1,4 +1,4 @@
-# AI-ML-DL-04-Intro-to-Keras
+# AI-Deep-Learning-04-Intro-to-Keras
 Udacity Self-Driving Car Engineer Nanodegree: Keras
 
 ## Layers
