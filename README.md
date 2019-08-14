@@ -1,6 +1,11 @@
 # CarND-07-Deep-Learning-Keras-Basic
 Udacity Self-Driving Car Engineer Nanodegree: Keras
 
+## Further Reading
+
+- [Keras’s sample network](https://github.com/fchollet/keras/blob/master/examples/mnist_cnn.py)
+- [Example of a Keras Multi-Layer Perceptron network](https://github.com/fchollet/keras/blob/master/examples/mnist_mlp.py)
+
 ## Layers
 
 A Keras layer is just like a neural network layer. 
